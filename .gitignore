@@ -12,3 +12,4 @@ wheels/
 chroma_db/
 faiss_index/
 PDFNotes/
+.DS_Store
