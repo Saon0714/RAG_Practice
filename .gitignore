@@ -13,3 +13,4 @@ chroma_db/
 faiss_index/
 PDFNotes/
 .DS_Store
+chroma_hyde_db/
