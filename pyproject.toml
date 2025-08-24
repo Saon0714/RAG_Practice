@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
+    "arxiv>=2.2.0",
     "chromadb>=1.0.17",
     "docx2txt>=0.9",
     "faiss-cpu>=1.12.0",

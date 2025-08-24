@@ -29,3 +29,4 @@ wikipedia>=1.4.0
 langchain-pinecone
 weaviate-client>=4.0.0
 langchain_weaviate
+arxiv
