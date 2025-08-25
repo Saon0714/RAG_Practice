@@ -30,3 +30,5 @@ langchain-pinecone
 weaviate-client>=4.0.0
 langchain_weaviate
 arxiv
+langchain-tavily
+langgraph-supervisor
